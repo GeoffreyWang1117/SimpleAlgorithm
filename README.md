@@ -1,2 +1,2 @@
 # SimpleAlgorithm
-SImple Algorithm from the Textbook
+Simple Algorithm from the Textbook
